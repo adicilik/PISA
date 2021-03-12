@@ -1,0 +1,40 @@
+---
+title: "Replikasi PISA"
+author: "Adi Cilik Pierewan"
+date: "3/3/2021"
+output: ioslides_presentation
+---
+
+
+## Apa dan mengapa replikasi
+
+- Replikasi adalah proses memahami sebuah artikel dengan mengikuti langkah-langkah metode dan analisis yang digunakan 
+
+- Replikasi dapat membantu memahami artikel lebih mendalam
+- Replikasi membantu workflow dalam menulis sebuah artikel  
+
+## Proses replikasi
+
+- Membaca dan mencermati paper Thien et al. (2015)
+- Membaca PISA 2012 Results: p. 39–110
+- Menemukan variabel yang digunakan dalam artikel tersebut
+- Mencermati kuesioner 
+- Mencocokkan kuesioner dengan variabel yang digunakan 
+- Manajemen data
+- Analisis data
+
+## Membaca paper Thien
+
+- bagaimana proses kreasi variable
+- bagaimana variabel sekolah diukur
+- bagaimana bagaimana strategi analisisnya
+ 
+## Manajemen data
+
+- reverse score 
+- centering
+
+## Analisis data
+
+- strategi analitik apa yang digunakan? 
+- apakah hasil yang diperoleh sama dengan hasil Thien dkk (2015)? 
