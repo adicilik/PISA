@@ -52,6 +52,11 @@ studid <- studid %>%
           "scie"="PV1SCIE"
   )
 
+## Tambahan dari github
+
+Beberapa hal yang tidak bisa diukur dalam PISA 
+mungkin diukur dengan beberapa pendekatan yang lain.
+
 
 
 
