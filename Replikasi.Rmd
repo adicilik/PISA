@@ -44,5 +44,6 @@ output: ioslides_presentation
 - Cara analisi yang benar dalat menggunakan beberapa pendekatan yang sesuai dengan pertanyaan
 penelitian 
 - masukkan bebeberapa variabel yang 
+- pilih variabel yang relevan
 
 
