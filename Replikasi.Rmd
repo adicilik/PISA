@@ -38,3 +38,10 @@ output: ioslides_presentation
 
 - strategi analitik apa yang digunakan? 
 - apakah hasil yang diperoleh sama dengan hasil Thien dkk (2015)? 
+
+## Strategi analisis
+
+- Cara analisi yang benar dalat menggunakan beberapa pendekatan yang sesuai dengan pertanyaan
+penelitian 
+
+
