@@ -55,8 +55,7 @@ studid <- studid %>%
 ## Tambahan dari github
 
 Beberapa hal yang tidak bisa diukur dalam PISA 
-mungkin diukur dengan beberapa pendekatan yang lain.
-
-
+mungkin diukur dengan beberapa pendekatan yang lain. 
+selain ini tidak bisa dilanjutkan.
 
 
